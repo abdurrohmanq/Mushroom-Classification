@@ -1,0 +1,5 @@
+Model,Accuracy,Precision,Recall,F1,FN,Fit (s)
+KNN,1.0,1.0,1.0,1.0,0,0.034
+Decision Tree,1.0,1.0,1.0,1.0,0,0.033
+Random Forest,1.0,1.0,1.0,1.0,0,0.289
+Logistic Regression,0.9994,1.0,0.9987,0.9994,1,0.03
